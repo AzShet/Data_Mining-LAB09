@@ -1,2 +1,3 @@
-# Data_Mining-LAB09
-repositorio para la sesion 9 del curso
+# Proyecto de Data Mining - LAB09
+
+Este repositorio contiene los archivos y scripts para el laboratorio 9 de Data Mining.
