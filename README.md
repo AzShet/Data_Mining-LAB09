@@ -171,9 +171,9 @@ Get-ChildItem -Recurse -Directory -Filter "__pycache__" | Remove-Item -Recurse -
 
 ## 📚 Créditos
 
-**Autor:** [César Diego Ruelas Flores](https://www.linkedin.com/in/diego-ruelas-flores/)
-**Profesor**: [Luis Paraguay Arzapalo](https://github.com/luispar90) – Curso *Minería de Datos*.
-**Curso:** Big Data y Ciencia de Datos – TECSUP
-**Laboratorio:** LAB09 – Minería de Datos
-**Fecha creación:** 15 de mayo de 2025
-**Fecha de ultima actualización:** 4 de junio de 2025
+* **Autor:** [César Diego Ruelas Flores](https://www.linkedin.com/in/diego-ruelas-flores/)
+* **Profesor**: [Luis Paraguay Arzapalo](https://github.com/luispar90) – Curso *Minería de Datos*.
+* **Curso:** Big Data y Ciencia de Datos – TECSUP
+* **Laboratorio:** LAB09 – Minería de Datos
+* **Fecha creación:** 15 de mayo de 2025
+* **Fecha de ultima actualización:** 4 de junio de 2025
