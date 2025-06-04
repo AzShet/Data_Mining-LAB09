@@ -5,6 +5,26 @@ Este proyecto contiene la implementación y prueba unitaria de funciones de prep
 
 ---
 
+## 📄 Tabla de Contenidos
+
+* [Proyecto 09 – Modelos de aprendizaje profundo](#proyecto-09--modelos-de-aprendizaje-profundo)
+* [📁 Estructura del Proyecto](#-estructura-del-proyecto)
+* [⚙️ Requisitos del Entorno](#%EF%B8%8F-requisitos-del-entorno)
+* [🔬 Descripción de Funcionalidades](#-descripción-de-funcionalidades)
+    * [`utils.py`](#utilspy)
+* [🧪 Pruebas Unitarias con Pytest](#-pruebas-unitarias-con-pytest)
+    * [Ubicación](#ubicación)
+    * [Cobertura](#cobertura)
+    * [Ejecución desde Notebook (`LAB09-RUELAS.ipynb`)](#ejecución-desde-notebook-lab09-ruelasipynb)
+        * [📍 Paso 1: Establecer el directorio raíz del proyecto y `PYTHONPATH`](#%F0%9F%93%8D-paso-1-establecer-el-directorio-raíz-del-proyecto-y-pythonpath)
+        * [📍 Paso 2: Ejecutar pytest desde el Notebook](#%F0%9F%93%8D-paso-2-ejecutar-pytest-desde-el-notebook)
+* [🧾 Contenido del Archivo `pytest.ini`](#%F0%9F%93%92-contenido-del-archivo-pytestini)
+* [🧼 Limpieza de Caché y Precauciones](#-limpieza-de-caché-y-precauciones)
+* [✅ Buenas Prácticas Observadas](#-buenas-prácticas-observadas)
+* [📚 Créditos](#-créditos)
+
+---
+
 ## 📁 Estructura del Proyecto
 
 ```plaintext
