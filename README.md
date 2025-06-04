@@ -1,4 +1,5 @@
-# Data Mining - LAB09 📊🧠
+# Proyecto 09 – Modelos de aprendizaje profundo 
+**Big Data y Ciencia de Datos – [TECSUP](https://www.tecsup.edu.pe/)**
 
 Este proyecto contiene la implementación y prueba unitaria de funciones de preprocesamiento y modelos de clasificación aplicados a conjuntos de datos clásicos como MNIST y datos binarios. Además, se ha configurado una arquitectura de proyecto profesional compatible con `pytest` y entornos de Jupyter Notebook para asegurar la reproducibilidad y mantenibilidad del código.
 
